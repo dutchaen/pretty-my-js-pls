@@ -1,0 +1,11 @@
+[package]
+name = "pretty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clippers = "0.1.2"
+eframe = "0.29.1"
+egui_extras = "0.29.1"
+prettify-js = "0.1.0"
+rfd = "0.15.0"
